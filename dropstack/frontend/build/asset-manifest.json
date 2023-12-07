@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce3fd3c1.css",
+    "main.js": "/static/js/main.abc273a2.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Roobert-Regular.ttf": "/static/media/Roobert-Regular.f767911d84d7dd142987.ttf",
+    "static/media/GT-Walsheim-Regular.ttf": "/static/media/GT-Walsheim-Regular.5375bd4901cc5a779280.ttf",
+    "index.html": "/index.html",
+    "main.ce3fd3c1.css.map": "/static/css/main.ce3fd3c1.css.map",
+    "main.abc273a2.js.map": "/static/js/main.abc273a2.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce3fd3c1.css",
+    "static/js/main.abc273a2.js"
+  ]
+}
